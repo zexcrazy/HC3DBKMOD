@@ -3,3 +3,6 @@ Honeycomb 3D created by Moneymike.
 This is the theme for the T-Mobile Theme Engine. 
 
 This is the BKMODDED repo.
+
+
+The classes.dex here is to fix an issue with compiling with an application, and activity defined in the manifest and the compile not adding the proper classes. This is to be added to the compiled .apk and then resigned. This is a hack I use to get the icon and appname showing in manage applications.
