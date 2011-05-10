@@ -98,6 +98,14 @@
     <item name="drawable/stat_sys_data_out_e">@drawable/com_android_systemui_stat_sys_data_out_e</item>
     <item name="drawable/stat_sys_data_out_g">@drawable/com_android_systemui_stat_sys_data_out_g</item>
     <item name="drawable/stat_sys_data_out_h">@drawable/com_android_systemui_stat_sys_data_out_h</item>
+    <item name="drawable/stat_sys_data_connected_4g">@drawable/com_android_systemui_stat_sys_data_connected_4g</item>
+    <item name="drawable/stat_sys_data_fully_connected_4g">@drawable/com_android_systemui_stat_sys_data_fully_connected_4g</item>
+    <item name="drawable/stat_sys_data_fully_in_4g">@drawable/com_android_systemui_stat_sys_data_fully_in_4g</item>
+    <item name="drawable/stat_sys_data_fully_inandout_4g">@drawable/com_android_systemui_stat_sys_data_fully_inandout_4g</item>
+    <item name="drawable/stat_sys_data_fully_out_4g">@drawable/com_android_systemui_stat_sys_data_fully_out_4g</item>
+    <item name="drawable/stat_sys_data_in_4g">@drawable/com_android_systemui_stat_sys_data_in_4g</item>
+    <item name="drawable/stat_sys_data_inandout_4g">@drawable/com_android_systemui_stat_sys_data_inandout_4g</item>
+    <item name="drawable/stat_sys_data_out_4g">@drawable/com_android_systemui_stat_sys_data_out_4g</item>
     <item name="drawable/stat_sys_gps_acquiring">@drawable/com_android_systemui_stat_sys_gps_acquiring</item>
     <item name="drawable/stat_sys_no_sim">@drawable/com_android_systemui_stat_sys_no_sim</item>
     <item name="drawable/stat_sys_r_signal_0">@drawable/com_android_systemui_stat_sys_r_signal_0</item>
