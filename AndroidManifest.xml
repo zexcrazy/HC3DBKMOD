@@ -1,6 +1,6 @@
 <manifest android:hasCode="false"
-android:versionCode="5"
-android:versionName="2.3.1"
+android:versionCode="7"
+android:versionName="2.3.2"
 android:installLocation="internalOnly"
 package="com.mike.theme.honeycomb3d"
 
