@@ -1,24 +1,27 @@
-<manifest android:hasCode="false"
-android:versionCode="7"
-android:versionName="2.3.2"
-android:installLocation="internalOnly"
-package="com.mike.theme.honeycomb3d"
 
-  xmlns:android="http://schemas.android.com/apk/res/android"
-  xmlns:pluto="http://www.w3.org/2001/pluto.html">
-     <application android:label="@string/theme_name"
-	android:icon="@drawable/icon">
-     <activity android:label="@string/theme_name"
-        android:name="com.mike.honeycomb3d.Foo" />
-    </application>
-    <theme
+ <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+   package="com.mike.theme.honeycomb3d"
+   xmlns:pluto="http://www.w3.org/2001/pluto.html"
+   android:versionCode="7"
+   android:versionName="2.3.2"
+   android:installLocation="internalOnly"
+   android:hasCode="false">
+     
+   <application android:icon="@drawable/icon" android:label="@string/theme_name">
+              <activity android:name="com.tmobile.theme.Foo"
+                  android:label="@string/theme_name"/>
+   </application>
+
+
+   <theme
  
-pluto:themeId="Honeycomb3D"
-pluto:styleId="@style/Honeycomb3D"
-pluto:name="@string/theme_name"
-pluto:preview="@drawable/preview"
-pluto:author="@string/author"
-pluto:copyright="@string/copyright"
-pluto:wallpaperImage="@drawable/wallpaper"
-pluto:styleName="@string/style_appearance_name" />
-</manifest>
+   pluto:themeId="Honeycomb3D"
+   pluto:styleId="@style/Honeycomb3D"
+   pluto:name="@string/theme_name"
+   pluto:preview="@drawable/preview"
+   pluto:author="@string/author"
+   pluto:copyright="@string/copyright"
+   pluto:wallpaperImage="@drawable/wallpaper"
+   pluto:styleName="@string/style_appearance_name" />
+
+ </manifest>
