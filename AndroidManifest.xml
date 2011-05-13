@@ -1,16 +1,19 @@
- <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
- <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-   package="com.mike.theme.honeycomb3d"
+ <manifest 
+   xmlns:android="http://schemas.android.com/apk/res/android"
    xmlns:pluto="http://www.w3.org/2001/pluto.html"
+   package="com.mike.theme.honeycomb3d"
    android:versionCode="7"
    android:versionName="2.3.2"
    android:installLocation="internalOnly"
    android:hasCode="false">
      
-   <application android:icon="@drawable/icon" android:label="@string/theme_name">
-              <activity android:name="com.mike.theme.Foo"
-                  android:label="@string/theme_name"/>
+   <application 
+         android:icon="@drawable/icon" 
+         android:label="@string/theme_name">
+   <activity android:name="com.mike.theme.Foo"
+         android:label="@string/theme_name"/>
    </application>
 
 
